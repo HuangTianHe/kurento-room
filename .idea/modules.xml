@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/kurento-room.iml" filepath="$PROJECT_DIR$/kurento-room.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-basicapp/kurento-room-basicapp.iml" filepath="$PROJECT_DIR$/kurento-room-basicapp/kurento-room-basicapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-client/kurento-room-client.iml" filepath="$PROJECT_DIR$/kurento-room-client/kurento-room-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-client-js/kurento-room-client-js.iml" filepath="$PROJECT_DIR$/kurento-room-client-js/kurento-room-client-js.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-demo/kurento-room-demo.iml" filepath="$PROJECT_DIR$/kurento-room-demo/kurento-room-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-sdk/kurento-room-sdk.iml" filepath="$PROJECT_DIR$/kurento-room-sdk/kurento-room-sdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-server/kurento-room-server.iml" filepath="$PROJECT_DIR$/kurento-room-server/kurento-room-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/kurento-room-test/kurento-room-test.iml" filepath="$PROJECT_DIR$/kurento-room-test/kurento-room-test.iml" />
+    </modules>
+  </component>
+</project>

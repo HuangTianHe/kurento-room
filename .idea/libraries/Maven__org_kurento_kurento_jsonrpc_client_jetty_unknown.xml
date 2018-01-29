@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.kurento:kurento-jsonrpc-client-jetty:unknown">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kurento-jsonrpc-client-jetty/unknown/kurento-jsonrpc-client-jetty-unknown.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kurento-jsonrpc-client-jetty/unknown/kurento-jsonrpc-client-jetty-unknown-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/kurento/kurento-jsonrpc-client-jetty/unknown/kurento-jsonrpc-client-jetty-unknown-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

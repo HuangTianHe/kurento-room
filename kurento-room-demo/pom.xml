@@ -5,7 +5,8 @@
 	<parent>
 		<groupId>org.kurento</groupId>
 		<artifactId>kurento-room</artifactId>
-		<version>6.6.1-SNAPSHOT</version>
+		<!--<version>6.6.1-SNAPSHOT</version>-->
+		<version>6.6.0</version>
 	</parent>
 	<artifactId>kurento-room-demo</artifactId>
 	<packaging>jar</packaging>
@@ -121,6 +122,19 @@
 			<artifactId>angular-clipboard</artifactId>
 			<version>1.4.2</version>
 		</dependency>
+
+		<dependency>
+			<groupId>org.kurento</groupId>
+			<artifactId>kurento-commons</artifactId>
+			<version>6.6.2</version>
+		</dependency>
+
+		<dependency>
+			<groupId>org.kurento</groupId>
+			<artifactId>kurento-jsonrpc</artifactId>
+			<version>6.6.2</version>
+		</dependency>
+
 	</dependencies>
 
 	<build>
@@ -190,11 +204,11 @@
 					<execution>
 						<phase>package</phase>
 						<configuration>
-							<tasks>
-								<copy
-									file="${project.build.directory}/target/${project.artifactId}-${project.version}-bin.zip"
-									tofile="${project.build.directory}/target/${project.artifactId}-${project.version}.zip" />
-							</tasks>
+							<!--<tasks>-->
+								<!--<copy-->
+									<!--file="${project.build.directory}/target/${project.artifactId}-${project.version}-bin.zip"-->
+									<!--tofile="${project.build.directory}/target/${project.artifactId}-${project.version}.zip" />-->
+							<!--</tasks>-->
 						</configuration>
 					</execution>
 				</executions>

@@ -5,7 +5,9 @@
 	<parent>
 		<groupId>org.kurento</groupId>
 		<artifactId>kurento-room</artifactId>
-		<version>6.6.1-SNAPSHOT</version>
+		<!--<version>6.6.1-SNAPSHOT</version>-->
+		<version>6.6.0</version>
+
 		<relativePath>../</relativePath>
 	</parent>
 	<artifactId>kurento-room-basicapp</artifactId>
@@ -123,11 +125,11 @@
 					<execution>
 						<phase>package</phase>
 						<configuration>
-							<tasks>
-								<copy
-									file="${project.build.directory}/target/${project.artifactId}-${project.version}-bin.zip"
-									tofile="${project.build.directory}/target/${project.artifactId}-${project.version}.zip" />
-							</tasks>
+							<!--<tasks>-->
+								<!--<copy-->
+									<!--file="${project.build.directory}/target/${project.artifactId}-${project.version}-bin.zip"-->
+									<!--tofile="${project.build.directory}/target/${project.artifactId}-${project.version}.zip" />-->
+							<!--</tasks>-->
 						</configuration>
 					</execution>
 				</executions>

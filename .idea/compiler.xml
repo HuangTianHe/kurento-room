@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kurento-room-basicapp" />
+        <module name="kurento-room-client" />
+        <module name="kurento-room-client-js" />
+        <module name="kurento-room-demo" />
+        <module name="kurento-room-sdk" />
+        <module name="kurento-room-server" />
+        <module name="kurento-room-test" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="kurento-room" target="1.8" />
+      <module name="kurento-room-basicapp" target="1.8" />
+      <module name="kurento-room-client" target="1.8" />
+      <module name="kurento-room-client-js" target="1.8" />
+      <module name="kurento-room-demo" target="1.8" />
+      <module name="kurento-room-sdk" target="1.8" />
+      <module name="kurento-room-server" target="1.8" />
+      <module name="kurento-room-test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
