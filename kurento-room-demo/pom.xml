@@ -124,17 +124,6 @@
 			<version>1.4.2</version>
 		</dependency>
 
-		<dependency>
-			<groupId>org.kurento</groupId>
-			<artifactId>kurento-commons</artifactId>
-			<version>6.6.0</version>
-		</dependency>
-
-		<dependency>
-			<groupId>org.kurento</groupId>
-			<artifactId>kurento-jsonrpc</artifactId>
-			<version>6.6.0</version>
-		</dependency>
 
 	</dependencies>
 
