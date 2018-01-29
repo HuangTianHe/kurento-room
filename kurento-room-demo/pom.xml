@@ -10,6 +10,7 @@
 	</parent>
 	<artifactId>kurento-room-demo</artifactId>
 	<packaging>jar</packaging>
+    <version>6.6.0</version>
 
 	<name>Kurento Room Demo</name>
 	<description>Kurento Room Demo application</description>
@@ -126,13 +127,13 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-commons</artifactId>
-			<version>6.6.2</version>
+			<version>6.6.0</version>
 		</dependency>
 
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-jsonrpc</artifactId>
-			<version>6.6.2</version>
+			<version>6.6.0</version>
 		</dependency>
 
 	</dependencies>
