@@ -4,6 +4,7 @@
     <list default="true" id="4126a090-f628-4ef0-8863-eb6b28921107" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-demo/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-demo/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-server/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-server/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/kurento-room-server/target/" />
@@ -23,25 +24,25 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kurento-room-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="297">
-              <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
+              <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kurento-room-demo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="313">
-              <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+            <state relative-caret-position="219">
+              <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding>
-                <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+                <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+                <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-                <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -90,8 +91,8 @@
         <option value="$PROJECT_DIR$/kurento-room-client-js/pom.xml" />
         <option value="$PROJECT_DIR$/kurento-room-test/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/kurento-room-server/pom.xml" />
         <option value="$PROJECT_DIR$/kurento-room-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/kurento-room-server/pom.xml" />
       </list>
     </option>
   </component>
@@ -690,12 +691,12 @@
       <workItem from="1517216390575" duration="644000" />
       <workItem from="1517217560385" duration="202000" />
       <workItem from="1517218061593" duration="3472000" />
-      <workItem from="1517222499182" duration="2496000" />
+      <workItem from="1517222499182" duration="2735000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6814000" />
+    <option name="totallyTimeSpent" value="7053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="104" y="4" width="2418" height="1318" extended-state="0" />
@@ -779,9 +780,9 @@
         <state relative-caret-position="2310">
           <caret line="131" column="20" lean-forward="true" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
           <folding>
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1146,9 +1147,9 @@
         <state relative-caret-position="297">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1253,9 +1254,9 @@
         <state relative-caret-position="5775">
           <caret line="175" column="32" lean-forward="false" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
           <folding>
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1756,14 +1757,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kurento-room-server/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="12" column="30" lean-forward="false" selection-start-line="12" selection-start-column="30" selection-end-line="12" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kurento-room-demo/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="231">
@@ -1774,12 +1767,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/kurento-room-demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="313">
-          <caret line="54" column="42" lean-forward="false" selection-start-line="54" selection-start-column="42" selection-end-line="54" selection-end-column="42" />
+        <state relative-caret-position="219">
+          <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
           <folding>
-            <element signature="n#dependency#1;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
+            <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
-            <element signature="n#dependency#3;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#5;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#6;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1792,6 +1785,14 @@
             <element signature="n#dependency#13;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#profiles#0;n#project#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-room-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <folding />
         </state>
       </provider>
     </entry>

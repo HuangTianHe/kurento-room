@@ -65,6 +65,7 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-room-client-js</artifactId>
+            <version>6.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.kurento</groupId>

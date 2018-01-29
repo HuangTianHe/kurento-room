@@ -68,10 +68,12 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-room-sdk</artifactId>
+            <version>6.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-jsonrpc-server</artifactId>
+            <version>6.6.0</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.springframework.boot</groupId>
