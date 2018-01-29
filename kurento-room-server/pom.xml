@@ -11,6 +11,7 @@
 
 	<artifactId>kurento-room-server</artifactId>
 	<packaging>jar</packaging>
+    <version>6.6.0</version>
 
 	<name>Kurento Room Server</name>
 	<description>
