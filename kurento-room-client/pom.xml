@@ -11,6 +11,7 @@
 
 	<artifactId>kurento-room-client</artifactId>
 	<packaging>jar</packaging>
+	<version>6.6.0</version>
 
 	<name>Kurento Room Client</name>
 	<description>
@@ -51,10 +52,12 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-jsonrpc-client</artifactId>
+			<version>6.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-room-sdk</artifactId>
+			<version>6.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.kurento</groupId>

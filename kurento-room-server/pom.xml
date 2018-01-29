@@ -89,6 +89,7 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-room-client</artifactId>
+            <version>6.6.0</version>
 			<scope>test</scope>
 		</dependency>
 		<dependency>

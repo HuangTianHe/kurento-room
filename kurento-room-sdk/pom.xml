@@ -11,6 +11,7 @@
 
 	<artifactId>kurento-room-sdk</artifactId>
 	<packaging>jar</packaging>
+    <version>6.6.0</version>
 
 	<name>Kurento Room SDK</name>
 	<description>
@@ -51,6 +52,7 @@
 		<dependency>
 			<groupId>org.kurento</groupId>
 			<artifactId>kurento-client</artifactId>
+            <version>6.6.0</version>
 			<exclusions>
 				<exclusion>
 					<groupId>org.springframework.boot</groupId>

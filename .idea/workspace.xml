@@ -2,8 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4126a090-f628-4ef0-8863-eb6b28921107" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_jsonrpc_client_jetty_unknown.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_room_client_js_6_6_1_SNAPSHOT.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_kurento_kurento_room_server_6_6_1_SNAPSHOT.xml" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-demo/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-demo/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-basicapp/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-basicapp/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-client-js/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-client-js/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-client/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-client/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-sdk/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-sdk/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/kurento-room-server/pom.xml" afterPath="$PROJECT_DIR$/kurento-room-server/pom.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
@@ -27,8 +33,8 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/kurento-room-server/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="297">
-              <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+            <state relative-caret-position="2904">
+              <caret line="91" column="26" lean-forward="false" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -37,10 +43,9 @@
       <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kurento-room-demo/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
+            <state relative-caret-position="220">
               <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
               <folding>
-                <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
                 <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -59,11 +64,51 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-room-sdk/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-room-client/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="495">
+              <caret line="63" column="65" lean-forward="false" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-room-client-js/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="462">
+              <caret line="77" column="55" lean-forward="false" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="application.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/kurento-room-demo/src/main/resources/application.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="231">
               <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/kurento-room-basicapp/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-165">
+              <caret line="211" column="26" lean-forward="false" selection-start-line="211" selection-start-column="26" selection-end-line="211" selection-end-column="26" />
               <folding />
             </state>
           </provider>
@@ -85,13 +130,13 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/kurento-room-test/src/main/java/org/kurento/room/test/RoomFunctionalBrowserTest.java" />
         <option value="$PROJECT_DIR$/kurento-room-demo/src/main/java/org/kurento/room/demo/KurentoRoomDemoApp.java" />
-        <option value="$PROJECT_DIR$/kurento-room-client/pom.xml" />
-        <option value="$PROJECT_DIR$/kurento-room-sdk/pom.xml" />
-        <option value="$PROJECT_DIR$/kurento-room-basicapp/pom.xml" />
-        <option value="$PROJECT_DIR$/kurento-room-client-js/pom.xml" />
         <option value="$PROJECT_DIR$/kurento-room-test/pom.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/kurento-room-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/kurento-room-basicapp/pom.xml" />
+        <option value="$PROJECT_DIR$/kurento-room-client/pom.xml" />
+        <option value="$PROJECT_DIR$/kurento-room-client-js/pom.xml" />
+        <option value="$PROJECT_DIR$/kurento-room-sdk/pom.xml" />
         <option value="$PROJECT_DIR$/kurento-room-server/pom.xml" />
       </list>
     </option>
@@ -192,7 +237,21 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kurento-room-demo" />
+              <option name="myItemId" value="kurento-room-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kurento-room" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kurento-room" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kurento-room-sdk" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -209,8 +268,18 @@
               <option name="myItemId" value="kurento-room-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
+              <option name="myItemId" value="kurento-room" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kurento-room" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="kurento-room-client-js" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -224,19 +293,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kurento-room-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="resources" />
+              <option name="myItemId" value="kurento-room-client" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -250,15 +307,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="kurento-room-demo" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="src" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="main" />
+              <option name="myItemId" value="kurento-room-basicapp" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -691,12 +740,12 @@
       <workItem from="1517216390575" duration="644000" />
       <workItem from="1517217560385" duration="202000" />
       <workItem from="1517218061593" duration="3472000" />
-      <workItem from="1517222499182" duration="2735000" />
+      <workItem from="1517222499182" duration="3007000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7053000" />
+    <option name="totallyTimeSpent" value="7325000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="104" y="4" width="2418" height="1318" extended-state="0" />
@@ -780,7 +829,6 @@
         <state relative-caret-position="2310">
           <caret line="131" column="20" lean-forward="true" selection-start-line="131" selection-start-column="20" selection-end-line="131" selection-end-column="20" />
           <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1147,7 +1195,6 @@
         <state relative-caret-position="297">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1254,7 +1301,6 @@
         <state relative-caret-position="5775">
           <caret line="175" column="32" lean-forward="false" selection-start-line="175" selection-start-column="32" selection-end-line="175" selection-end-column="32" />
           <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1665,14 +1711,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kurento-room-basicapp/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/kurento-room-demo/src/main/java/org/kurento/room/demo/KurentoRoomDemoApp.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -1680,30 +1718,6 @@
           <folding>
             <element signature="e#0#6406#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kurento-room-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="7" column="48" lean-forward="false" selection-start-line="7" selection-start-column="48" selection-end-line="7" selection-end-column="48" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kurento-room-client-js/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/kurento-room-sdk/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1765,12 +1779,35 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-room-basicapp/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-165">
+          <caret line="211" column="26" lean-forward="false" selection-start-line="211" selection-start-column="26" selection-end-line="211" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-room-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="63" column="65" lean-forward="false" selection-start-line="63" selection-start-column="65" selection-end-line="63" selection-end-column="65" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-room-client-js/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="77" column="55" lean-forward="false" selection-start-line="77" selection-start-column="55" selection-end-line="77" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/kurento-room-demo/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
+        <state relative-caret-position="220">
           <caret line="52" column="17" lean-forward="false" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
           <folding>
-            <element signature="n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#0;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#2;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
             <element signature="n#dependency#4;n#dependencies#0;n#project#0;n#!!top" expanded="false" />
@@ -1788,10 +1825,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/kurento-room-server/pom.xml">
+    <entry file="file://$PROJECT_DIR$/kurento-room-sdk/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
-          <caret line="87" column="21" lean-forward="true" selection-start-line="87" selection-start-column="21" selection-end-line="87" selection-end-column="21" />
+          <caret line="54" column="26" lean-forward="false" selection-start-line="54" selection-start-column="26" selection-end-line="54" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/kurento-room-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2904">
+          <caret line="91" column="26" lean-forward="false" selection-start-line="91" selection-start-column="26" selection-end-line="91" selection-end-column="26" />
           <folding />
         </state>
       </provider>
